@@ -1,4 +1,4 @@
-# Flexibel Twitter sentiment analyser
+# Flexibel Twitter Market sentiment analyser
 
 The flexibel Twitter sentiment analyser, able to predict the sentiment of any given text, based on test dataset of 5000 tweets.
 The tweets are created via an Tweeter API streaming connection.
